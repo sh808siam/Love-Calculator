@@ -8,4 +8,4 @@ So, I was watching a [course](https://www.udemy.com/course/100-days-of-code/) fr
 
 - You can view the optimized code (the solution from udemy) : [CLICK HERE](https://github.com/sh808siam/Love-Calculator/blob/main/SOLUTiON.py)
 
-You also can check the challenge and its algo etc. by [CLICKING HERE](https://replit.com/@appbrewery/day-3-5-exercise#README.md)
+You can also check the challenge and its algo etc. by [CLICKING HERE](https://replit.com/@appbrewery/day-3-5-exercise#README.md)
